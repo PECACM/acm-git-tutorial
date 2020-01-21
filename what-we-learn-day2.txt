@@ -36,3 +36,5 @@ Rebase example
 For example, if your local branch has commits A−>B−>C−>D and 
 the merge branch has commits A−>B−>X−>Y, then Git rebase will convert the current local branch to 
 something like A−>B−>X−>Y−>C−>D.
+
+My name is Ritesh
