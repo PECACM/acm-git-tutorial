@@ -38,3 +38,4 @@ the merge branch has commits A−>B−>X−>Y, then Git rebase will convert the 
 something like A−>B−>X−>Y−>C−>D.
 
 Making some more changes
+hi hello
